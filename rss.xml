@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aquaponica]]></title>
+        <description><![CDATA[Aquaponica]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Apr 2016 23:02:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is not what I mean.]]></title>
+            <description><![CDATA[<article><h1>This is not what I mean.</h1><p>Aquaponica is a future dream. It's future, because everything I will ever do is future. However, Aquaponica is something I want to do AFTER I have a successful aquaponic gardening experience. Aquaponica will be about sharing good with the rest of the world.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1546d1b-7302-458f-be56-5bb2b02d455b.jpg"></article>]]></description>
+            <link>undefinedthis-is-not-what-i-mean/index.html</link>
+            <guid isPermaLink="false">61c35dc1-ae98-43bb-9727-f759e61e30ce</guid>
+            <pubDate>Tue, 19 Apr 2016 23:02:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
