@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Aquaponica is a future dream. It's future, because everything I will ever do is future. However, Aquaponica is something I want to do AFTER I have a successful aquaponic gardening experience. Aquaponica will be about sharing good with the rest of the world."
-datePublished: '2016-04-19T23:02:50.270Z'
-dateModified: '2016-04-19T23:02:42.687Z'
+datePublished: '2016-04-19T23:03:36.382Z'
+dateModified: '2016-04-19T23:02:56.278Z'
 title: This is not what I mean.
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-19-this-is-not-what-i-mean.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-this-is-not-what-i-mean.md
-published: true
 url: this-is-not-what-i-mean/index.html
 _type: Article
 
