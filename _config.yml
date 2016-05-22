@@ -1,28 +1,40 @@
-name: Aquaponica
 favicon: null
-layout_spectrum: 0.508917692815885
-typography_spectrum: 0.6980147114954889
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Aquaponica
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9998955391347408
+  brandStrength: 0.3199049597606063
+  rhythmicContrast: 0.3488220693543553
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3199049597606063
   lightness: 0.998281913343817
-  saturation: 0.9998955391347408
-  rhythmicContrast: 0.34882206935435534
-purpose: []
+typography_spectrum: 0.6980147114954889
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7998805
+analytics:
+  twitter: null
+  google: null
+  facebook: null
